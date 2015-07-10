@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+# Module specific
+work
+buildroot
+t/servroot
